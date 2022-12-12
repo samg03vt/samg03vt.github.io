@@ -48,7 +48,7 @@ h2 {
   letter-spacing: 0.3px;
   text-align: left;
   color: #006d77;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 20px 0px 20px;
 }
 
 img {
@@ -140,19 +140,15 @@ a {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
-}
-
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
 }
 
 .container {
   margin: auto;
+}
+
+.project {
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%); 
 }
 
 footer div {
